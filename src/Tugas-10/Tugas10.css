@@ -1,0 +1,23 @@
+.div_tengah {
+    margin: 0 auto;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.tabel10 {
+    border: 1px solid #000;
+    width: 100%;
+}
+
+.tabel10 thead {
+    background-color: #aaa;
+    font-weight: bold;
+    text-align: center;
+}
+
+.tabel10 tbody td {
+    background-color: #f07d4e;
+    text-align: left;
+}
