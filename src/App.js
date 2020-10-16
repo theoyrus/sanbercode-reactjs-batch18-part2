@@ -5,7 +5,8 @@ import './App.css';
 // import BuahTugas10 from './Tugas-10/Tugas10';
 // import TimerTugas11 from './Tugas-11/Tugas11';
 // import ProdukBuahTugas12 from './Tugas-12/Tugas12';
-import ProdukBuahTugas13 from './Tugas-13/Tugas13';
+// import ProdukBuahTugas13 from './Tugas-13/Tugas13';
+import BuahTugas14 from './Tugas-14/Buah';
 
 function App() {
   return (
@@ -13,8 +14,9 @@ function App() {
       {/* <FormTugas9 />
       <BuahTugas10 />
       <TimerTugas11 />
-      <ProdukBuahTugas12 /> */}
-      <ProdukBuahTugas13 />
+      <ProdukBuahTugas12 />
+      <ProdukBuahTugas13 /> */}
+      <BuahTugas14 />
     </div >
   );
 }
